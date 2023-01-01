@@ -17,7 +17,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### My social media
+### Hobby
+
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Bitcon"/>
+</div>
+
+
+### Social media
 
 <div>
     <a href="https://www.linkedin.com/in/andriideleniv/">
