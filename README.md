@@ -20,7 +20,8 @@
 ### Hobby
 
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Bitcon"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" alt="Bitcon" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1839/1839392.png" alt="Gym" width="40" height="40"/>
 </div>
 
 
@@ -28,7 +29,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/andriideleniv/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
 
