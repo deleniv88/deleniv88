@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Andrii. I'm a junior Frontend developer.
 
 <!--
 **deleniv88/deleniv88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
