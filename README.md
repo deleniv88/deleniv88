@@ -1,6 +1,6 @@
 ### Hi there 👋. My name is Andrii. I'm a junior Frontend developer 👨🏻‍💻
 
-🔻 I'm currently looking for a job as a Frontend developer, to make my dream come true 🤩
+🔻 I believe that dreams come true 🤩
 
 ### Skills and tools
 
